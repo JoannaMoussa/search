@@ -15,3 +15,16 @@
     bottom:0;
     width:100%;
 }
+
+.red_small_text{
+    color: red;
+    font-size: 26px;
+}
+
+.medium_text{
+    font-size: 28px;
+}
+
+.label{
+    font-size: 16px;
+}
