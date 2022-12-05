@@ -22,9 +22,18 @@
 }
 
 .medium_text{
-    font-size: 28px;
+    font-size: 21px;
 }
 
-.label{
+.form-group label{
+    font-size: 18px;
+}
+
+.input_field{
+    height: 40px;
+    border-radius: 0 !important;
+}
+
+.small_text{
     font-size: 16px;
 }
