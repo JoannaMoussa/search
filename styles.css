@@ -1,19 +1,21 @@
+body{
+    height: 100vh; 
+}
+
+.div_height{
+    height: 100%; 
+}
+
 .header_link{
     text-decoration: none;
     color: #525454;
-    font-size: x-small;
+    font-size: 18px;
 }
 
 .footer_link{
     text-decoration: none;
     color: #787979;
     font-size: 14px;
-}
-
-.footer{
-    position:fixed;
-    bottom:0;
-    width:100%;
 }
 
 .red_small_text{
@@ -31,9 +33,26 @@
 
 .input_field{
     height: 40px;
-    border-radius: 0 !important;
+    border-radius: 0 ;
 }
 
 .small_text{
     font-size: 16px;
+}
+
+.img_size{
+    width: 410px ;
+}
+
+.input_field_size{
+    width:700px ;
+    font-size: 25px ;
+}
+
+.button_font_size{
+    font-size: 25px ;
+}
+
+.img_link_size{
+    width:110px;
 }
