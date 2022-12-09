@@ -44,9 +44,9 @@ body{
     width: 410px ;
 }
 
-.input_field_size{
-    width:700px ;
-    font-size: 25px ;
+.input_style {
+    width: 800px;
+    font-size: 25px;
 }
 
 .button_font_size{
@@ -55,4 +55,17 @@ body{
 
 .img_link_size{
     width:110px;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active{
+    -webkit-box-shadow: 0 0 0px 40rem #ffff inset;
+    box-shadow: 0 0 0px 40rem #ffff inset;
+}
+
+input:focus{
+    -webkit-box-shadow: 0 0 0px 40rem #ffff inset !important;
+    box-shadow: 0 0 0px 40rem #ffff inset !important;
 }
