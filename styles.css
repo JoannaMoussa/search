@@ -1,71 +1,78 @@
-body{
+body {
     height: 100vh; 
 }
 
-.div_height{
+.div_height {
     height: 100%; 
 }
 
-.header_link{
+.header_link {
     text-decoration: none;
     color: #525454;
     font-size: 18px;
 }
 
-.footer_link{
+.footer_link {
     text-decoration: none;
     color: #787979;
     font-size: 14px;
 }
 
-.red_small_text{
+.red_small_text {
     color: red;
     font-size: 26px;
 }
 
-.medium_text{
+.medium_text {
     font-size: 21px;
 }
 
-.form-group label{
+.form-group label {
     font-size: 18px;
 }
 
-.input_field{
+.input_field {
     height: 40px;
     border-radius: 0 ;
 }
 
-.small_text{
+.small_text {
     font-size: 16px;
 }
 
-.img_size{
+.img_size {
     width: 410px ;
 }
 
-.input_style {
-    width: 800px;
+.input_width {
+    width: 700px;
+}
+
+.input_font_size {
     font-size: 25px;
 }
 
-.button_font_size{
+.icon_size {
+    font-size: 20px;
+}
+
+.button_font_size {
     font-size: 25px ;
 }
 
-.img_link_size{
+.img_link_size {
     width:110px;
 }
 
 input:-webkit-autofill,
 input:-webkit-autofill:hover,
 input:-webkit-autofill:focus,
-input:-webkit-autofill:active{
+input:-webkit-autofill:active {
     -webkit-box-shadow: 0 0 0px 40rem #ffff inset;
     box-shadow: 0 0 0px 40rem #ffff inset;
 }
 
-input:focus{
+input:focus {
     -webkit-box-shadow: 0 0 0px 40rem #ffff inset !important;
     box-shadow: 0 0 0px 40rem #ffff inset !important;
 }
